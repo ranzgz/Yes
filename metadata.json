@@ -1,0 +1,6 @@
+{
+  "name": "Premium License Injector Portal",
+  "description": "Fullstack license verification hub, target email handshakes queue, user CRUD permissions dashboard, and premium bypass injection gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
